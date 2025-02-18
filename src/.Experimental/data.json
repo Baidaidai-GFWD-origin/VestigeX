@@ -1,0 +1,17 @@
+{
+    "preference": {
+        "generalSetting": {
+            "location": "http://about-me/${nickName}/location",
+            "twelveHourFormat": "true",
+            "searchEngine": "Bing"
+        },
+        "backgroundPreference": {
+            "autoBackgroundPic": "true",
+            "staticBackgroudPic": "file://patch/to/your/pic-jpg",
+            "gaussianBlur": "0.9"
+        },
+        "artificalIntelligent": {
+            "googleAPIKey": ""
+        }
+    }
+}
