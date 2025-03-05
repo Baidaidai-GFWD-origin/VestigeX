@@ -9,7 +9,7 @@ An AI Powered but Light Browser Home Page ⚡️
 1. You Need To Install NodeJS & NPM in Your Computer
 2. ```cd /path/to/this/dist/route```
 3. ```npx serve```
-4. **Enjoy The VestigeX V_0.2.0-alpha.1**
+4. **Enjoy The VestigeX V_0.2.1-alpha.1**
 
 ## Q & A
 ### 1. How To Use unSplash Background Pictures?  
@@ -63,7 +63,7 @@ Run `npm audit` for details.
 你需要拥有Gemini API KEY
 首先登陆Google AI Studio KEY官网: [Google AI Studio KEY官网](https://aistudio.google.com/apikey?hl=zh-cn)  
 
-后面流程和unsplash大致相同，若有不会请等等待**VestigeX V_1.x.0**模态框内填写
+后面流程和unsplash大致相同
 
 ### 3 & N:为什么这么简陋，为什么功能残缺，为什么很多还烂尾，为什么没适配移动端？
 Because，但凡你看到alpha就知道为什么了……   
