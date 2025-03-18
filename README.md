@@ -1,8 +1,8 @@
-<img src="public/VestigeX.jpg" width="120" style="border-radius: 10px; margin:20px; float: right;">
-
 # VestigeX
-An AI Powered but Light Browser Home Page ⚡️
-<hr/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="public/VestigeX.jpg" width="40" style="border-radius: 10px; margin:8px;">
+  An AI Powered but Light Browser Home Page ⚡️
+</div>
 
 ## <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
@@ -67,6 +67,4 @@ Run `npm audit` for details.
 后面流程和unsplash大致相同
 
 ### 3 & N:为什么这么简陋，为什么功能残缺，为什么很多还烂尾，为什么没适配移动端？
-Because，但凡你看到alpha就知道为什么了……   
-
-但后期会UOA，喜欢您来，欢迎友善交流提交PR和Issue，欢迎长久支持!
+Because，但凡你看到alpha就知道为什么了……
