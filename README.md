@@ -1,5 +1,4 @@
-<img src="public/VestigeX.jpg" align="left" width="100" style="border-radius: 10px; margin:20px;"> 
-<br/>  
+<img src="public/VestigeX.jpg" width="120" style="border-radius: 10px; margin:20px;"> 
 
 # VestigeX
 An AI Powered but Light Browser Home Page ⚡️
