@@ -33,7 +33,7 @@ const safetySettings = [
 ];
 
 const genAI = new GoogleGenerativeAI(GeminiAPIKEY);
-const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash",safetySettings});
+const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp-image-generation",safetySettings});
 
 const chat = model.startChat({
   history: [
