@@ -1,5 +1,5 @@
 <script setup>
-    import { unSplashResources } from "./scripts/unSplash/getUnSplashImg.js"
+    import { unSplashResources } from "./scripts/unSplash/_getUnSplashImg.js"
     import { rebuildResault } from './scripts/googleGemini/googleGeminiStudio.js'
     import { useGeminiResault, useUniversalFrameworkVisibility, useAuthorshipInfo } from './stores/index.js'
     import { transformGoogleGeminiToMarkDown } from '@/scripts/htmlToMarkDown/transformGoogleGeminiToMarkDown.js'
